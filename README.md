@@ -3,6 +3,15 @@
 A module to allow python to have a 'case' statement (otherwise known
 as 'switch')
 
+## Installation
+
+### Unix/Linux
+```sh
+git clone https://github.com/brightlego/case
+cd case
+pip3 install .
+```
+
 ## How to use it
 
 ### 1. Importing
