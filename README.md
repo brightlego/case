@@ -5,14 +5,14 @@ as 'switch')
 
 ## How to use it
 
-###1. Importing
+### 1. Importing
 It is recommended to import the `case` module using the following code:
 ```python
 from case import case
 ```
 This is because there is only one external function in this module and therefore that is all you will need
 
-###2. The Arguments to the function
+### 2. The Arguments to the function
 
 The case function by itself has indefinitely many arguments, but each argument must follow this format:
 ```python
@@ -28,10 +28,10 @@ where:
 **Note:**
 If you want a keyword argument but not a 'normal' one, empty brackets `()` should be used in the 'normal' arguments
 
-###3. Return values
+### 3. Return values
 The `case` function returns whatever value the executed function does
 
-###Examples:
+### Examples:
 Code:
 ```python
 
