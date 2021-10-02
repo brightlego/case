@@ -32,7 +32,7 @@ If you want a keyword argument but not a 'normal' one, empty brackets `()` shoul
 The `case` function returns whatever value the executed function does
 
 ### Examples:
-Code:
+**Code:**
 ```python
 
 from case import case
@@ -44,10 +44,10 @@ case(
     (a == 3, print)
 )
 ```
-Output:
+**Output:**
 `a is 2: and not 3`
 
-Code:
+**Code:**
 ```python
 n = 1
 n = case(
@@ -56,7 +56,7 @@ n = case(
     (True, print, (n,))
 )
 ```
-Output:
+**Output:**
 `1`
 
 In this scenario, the `True` value in the final case acts as an `else` would in an if statement
