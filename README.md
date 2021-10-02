@@ -8,8 +8,7 @@ as 'switch')
 ### Unix/Linux
 ```sh
 git clone https://github.com/brightlego/case
-cd case
-pip3 install .
+pip3 install ./case
 ```
 
 ## How to use it
