@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/case/__init__.py
+src/case/case.py
+src/case.egg-info/PKG-INFO
+src/case.egg-info/SOURCES.txt
+src/case.egg-info/dependency_links.txt
+src/case.egg-info/top_level.txt

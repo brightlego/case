@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: case
+Version: 0.0.1
+Summary: A module to allow python to have a 'case' statement (otherwise known as 'switch')
+Home-page: https://github.com/brightlego/case
+Author: bright_lego
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/brightlego/case/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: MIT License
+Classifier: Operating System :: OS Independant
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# case
+
+
