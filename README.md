@@ -3,6 +3,8 @@
 A module to allow python to have a 'case' statement (otherwise known
 as 'switch')
 
+Note - As of Python 3.10 this is no longer needed due to the match statement. This project will be archived.
+
 ## Installation
 
 ### Unix/Linux
